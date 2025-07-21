@@ -9,4 +9,4 @@ Um site de atualização em tempo real de criptomoedas, feito em React + Typescr
 </ul>
 
 ## Deploy: 
-[https://cripto-app-one-phi.vercel.app](CriptoApp)
+[CriptoApp](https://cripto-app-one-phi.vercel.app)
