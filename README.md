@@ -7,3 +7,6 @@ Um site de atualização em tempo real de criptomoedas, feito em React + Typescr
   <li>Acesso detalhado a cada moeda</li>
   <li>Pesquisa em tempo real de cada moeda</li>
 </ul>
+
+## Deploy: 
+[https://cripto-app-one-phi.vercel.app](CriptoApp)
